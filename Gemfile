@@ -42,7 +42,7 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   # code linter
-  gem 'rubocop'
+  gem 'rubocop', require: false
 end
 
 group :test do
