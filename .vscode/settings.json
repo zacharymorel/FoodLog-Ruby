@@ -11,5 +11,6 @@
   "ruby.rubocop.configFilePath": "/.rubocop.yml",
 
   // default true
-  "ruby.rubocop.onSave": true
+  "ruby.rubocop.onSave": true,
+  "ruby.format": "rubocop"
 }
